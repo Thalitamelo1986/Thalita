@@ -1,0 +1,50 @@
+body {
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+    background:white;
+}
+h1 {
+    color:#ffc;
+    background-color: aqua;
+    font-family: "Times New Roman";
+    text-decoration: line-through;
+    text-transform: uppercase;
+    text-align: center;
+    margin:20px;
+    padding:40px;
+    color:#ccccff;
+}
+tr {
+    color:#ffc;
+    background-color: aqua;
+    font-family: "Times New Roman";
+    text-decoration: line-through;
+    text-transform: uppercase;
+    text-align: center;
+    margin:20px;
+    padding:40px;
+    height:60px;
+    width:60px;
+    color:#ccccff;
+}
+p {
+    color:rgb(153,0,51);
+    font-weight:normal;
+    font-style:italic;
+    text-transform:capitalize;
+    letter-spacing:0.1em;
+}
+h3 {
+    color:rgb(153,0,51);
+    font-weight:normal;
+    font-style:italic;
+    text-transform:capitalize;
+    letter-spacing:0.1em;
+}
+ul {
+    color:rgb(71, 0, 153);
+    font-weight:normal;
+    font-style:italic;
+    text-transform:capitalize;
+    letter-spacing:0.1em;
+}
